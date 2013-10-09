@@ -1,3 +1,6 @@
+Tutorial: Installing Tomcat 7 and Using it with Eclipse
+http://www.coreservlets.com/Apache-Tomcat-Tutorial/tomcat-7-with-eclipse.html
+
 JSF 2.0 Hello World Example
 http://www.mkyong.com/jsf2/jsf-2-0-hello-world-example/
 
